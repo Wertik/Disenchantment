@@ -1,0 +1,16 @@
+name: Disenchant
+main: java.me.wertik.disenchant.Main
+author: Wertik1206
+version: 1.0
+commands:
+  ve:
+    description: Smaze enchant.
+  vereload:
+    description: Reload.
+permissions:
+  disenchant.use:
+    default: false
+    description: Povoluje basic prikaz.
+  disenchant.reload:
+    default: false
+    description: Povoluej reload prikaz.
