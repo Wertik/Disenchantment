@@ -1,0 +1,11 @@
+# Configuration for ${project.name}
+#
+# Version: ${project.version}
+
+plugin-prefix: '&5Disenchantment &8| '
+debug-enabled: false
+
+sound:
+  type: BLOCK_ANVIL_BREAK
+  volume: 1.0
+  pitch: 1.0

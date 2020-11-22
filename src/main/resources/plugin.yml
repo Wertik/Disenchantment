@@ -1,0 +1,14 @@
+name: Disenchantment
+main: me.wertik.disenchant.DisenchantPlugin
+authors: [ qwz ]
+version: ${project.version}
+commands:
+  disenchant:
+    description: Disenchant an item.
+permissions:
+  disenchantment.use:
+    description: Permission to use the disenchantment.
+  disenchantment.use.others:
+    description: Permission to disenchantment for others.
+  disenchantment.reload:
+    description: Permission to reload the plugin.
